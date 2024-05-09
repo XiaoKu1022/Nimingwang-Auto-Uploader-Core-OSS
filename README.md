@@ -1,5 +1,5 @@
 # Nimingwang-Auto-Uploader-Core-OSS
-Open Source Software
+Open Source Software Ver
 
 
 過去方法：
